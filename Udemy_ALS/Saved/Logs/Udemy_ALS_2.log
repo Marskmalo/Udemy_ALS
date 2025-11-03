@@ -1466,3 +1466,843 @@ FPackageName: Skipped package /Game/Characters/Heroes/PhysMat_Player_WeakSpot ha
 [2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
 [2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Material Cache Hits: 18 (12%)
 [2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: ================================================
+[2025.11.03-14.16.01:289][244]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-14.16.01:353][244]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Blue1] ([1] browsable assets)...
+[2025.11.03-14.16.01:387][244]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Blue1.MI_Manny_02_Blue1]
+[2025.11.03-14.16.01:387][244]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Blue1]
+[2025.11.03-14.16.01:409][244]LogSavePackage: Moving output files for package: /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Blue1
+[2025.11.03-14.16.01:409][244]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/MI_Manny_02_Blue1C41B530F44FBB45F02EFBCA9C7F29DA7.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Blue1.uasset'
+[2025.11.03-14.16.01:411][244]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Blue1] ([1] browsable assets)...
+[2025.11.03-14.16.01:416][244]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Blue1.MI_Manny_01_Blue1]
+[2025.11.03-14.16.01:416][244]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Blue1]
+[2025.11.03-14.16.01:428][244]LogSavePackage: Moving output files for package: /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Blue1
+[2025.11.03-14.16.01:428][244]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/MI_Manny_01_Blue1F7F2D00444AC89CC7C1DB9B5E221FBCE.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Blue1.uasset'
+[2025.11.03-14.16.01:596][244]LogFileHelpers: InternalPromptForCheckoutAndSave took 307.199 ms
+[2025.11.03-14.16.01:762][244]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.03-14.16.01:762][244]LogContentValidation: Enabled validators:
+[2025.11.03-14.16.01:762][244]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-14.16.01:762][244]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-14.16.01:762][244]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-14.16.01:762][244]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-14.16.01:762][244]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-14.16.01:762][244]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-14.16.01:764][244]AssetCheck: /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Blue1 正在验证资产
+[2025.11.03-14.16.01:764][244]AssetCheck: /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Blue1 正在验证资产
+[2025.11.03-14.16.11:008][784]LogContentBrowser: Attempting asset rename: MI_Manny_01_Blue1 -> MI_Manny_01_Yellow1
+[2025.11.03-14.16.11:693][784]LogMaterial: Display: MaterialInterface MI_Manny_01_Blue1 has a incorrectly name EditorOnlyData 'MI_Manny_01_Blue1EditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MI_Manny_01_Yellow1EditorOnlyData'.
+[2025.11.03-14.16.11:797][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-14.16.11:797][784]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Yellow1] ([1] browsable assets)...
+[2025.11.03-14.16.11:797][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Yellow1]
+[2025.11.03-14.16.11:809][784]LogSavePackage: Moving output files for package: /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Yellow1
+[2025.11.03-14.16.11:810][784]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/MI_Manny_01_Yellow1C903812E4CED432C364AFD93AC3CCBB2.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Yellow1.uasset'
+[2025.11.03-14.16.11:955][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.504 ms (total: 464.703 ms)
+[2025.11.03-14.16.12:109][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.11.03-14.16.12:136][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.11.03-14.16.12:153][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.11.03-14.16.12:288][784]SourceControl: rm 'Udemy_ALS/Content/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Blue1.uasset'
+[2025.11.03-14.16.12:376][784]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-14.16.12:376][784]LogContentValidation: Enabled validators:
+[2025.11.03-14.16.12:376][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-14.16.12:376][784]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-14.16.12:376][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-14.16.12:376][784]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-14.16.12:376][784]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-14.16.12:376][784]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-14.16.12:376][784]AssetCheck: /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Yellow1 正在验证资产
+[2025.11.03-14.16.17:328][ 69]LogContentBrowser: Attempting asset rename: MI_Manny_02_Blue1 -> MI_Manny_02_Yellow
+[2025.11.03-14.16.17:967][ 69]LogMaterial: Display: MaterialInterface MI_Manny_02_Blue1 has a incorrectly name EditorOnlyData 'MI_Manny_02_Blue1EditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MI_Manny_02_YellowEditorOnlyData'.
+[2025.11.03-14.16.18:066][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-14.16.18:066][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Yellow] ([1] browsable assets)...
+[2025.11.03-14.16.18:066][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Yellow]
+[2025.11.03-14.16.18:076][ 69]LogSavePackage: Moving output files for package: /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Yellow
+[2025.11.03-14.16.18:076][ 69]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/MI_Manny_02_Yellow54FD60264CE53916C5B96F886A04F62D.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Yellow.uasset'
+[2025.11.03-14.16.18:227][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 161.271 ms (total: 625.975 ms)
+[2025.11.03-14.16.18:378][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.11.03-14.16.18:397][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.11.03-14.16.18:422][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.11.03-14.16.18:585][ 69]SourceControl: rm 'Udemy_ALS/Content/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Blue1.uasset'
+[2025.11.03-14.16.18:668][ 69]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-14.16.18:668][ 69]LogContentValidation: Enabled validators:
+[2025.11.03-14.16.18:668][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-14.16.18:668][ 69]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-14.16.18:668][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-14.16.18:668][ 69]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-14.16.18:668][ 69]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-14.16.18:668][ 69]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-14.16.18:668][ 69]AssetCheck: /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Yellow 正在验证资产
+[2025.11.03-14.16.22:841][270]LogContentBrowser: Attempting asset rename: MI_Manny_01_Yellow1 -> MI_Manny_01_Yellow
+[2025.11.03-14.16.23:508][270]LogMaterial: Display: MaterialInterface MI_Manny_01_Yellow1 has a incorrectly name EditorOnlyData 'MI_Manny_01_Yellow1EditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MI_Manny_01_YellowEditorOnlyData'.
+[2025.11.03-14.16.23:619][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-14.16.23:619][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Yellow] ([1] browsable assets)...
+[2025.11.03-14.16.23:619][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Yellow]
+[2025.11.03-14.16.23:636][270]LogSavePackage: Moving output files for package: /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Yellow
+[2025.11.03-14.16.23:636][270]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/MI_Manny_01_Yellow0B2C4BE7449C31567D1C529F97BDFFE9.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Yellow.uasset'
+[2025.11.03-14.16.23:805][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 186.052 ms (total: 812.028 ms)
+[2025.11.03-14.16.23:964][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.11.03-14.16.23:988][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.11.03-14.16.24:008][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.11.03-14.16.24:142][270]SourceControl: rm 'Udemy_ALS/Content/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Yellow1.uasset'
+[2025.11.03-14.16.24:232][270]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-14.16.24:232][270]LogContentValidation: Enabled validators:
+[2025.11.03-14.16.24:232][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-14.16.24:232][270]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-14.16.24:232][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-14.16.24:232][270]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-14.16.24:232][270]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-14.16.24:232][270]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-14.16.24:232][270]AssetCheck: /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Yellow 正在验证资产
+[2025.11.03-14.17.04:453][458]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 694.825562
+[2025.11.03-14.17.05:787][462]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-14.17.05:787][462]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 695.827454, Update Interval: 348.570221
+[2025.11.03-14.17.21:571][791]LogContentBrowser: Attempting asset rename: MI_Manny_01_Yellow -> MI_Manny_01_Pink
+[2025.11.03-14.17.22:244][791]LogMaterial: Display: MaterialInterface MI_Manny_01_Yellow has a incorrectly name EditorOnlyData 'MI_Manny_01_YellowEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MI_Manny_01_PinkEditorOnlyData'.
+[2025.11.03-14.17.22:357][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-14.17.22:357][791]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Pink] ([1] browsable assets)...
+[2025.11.03-14.17.22:357][791]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Pink]
+[2025.11.03-14.17.22:374][791]LogSavePackage: Moving output files for package: /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Pink
+[2025.11.03-14.17.22:374][791]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/MI_Manny_01_PinkFE626E344A6F116AB0034B884273E6CE.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Pink.uasset'
+[2025.11.03-14.17.22:528][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.530 ms (total: 983.558 ms)
+[2025.11.03-14.17.22:673][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.11.03-14.17.22:694][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.11.03-14.17.22:712][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.11.03-14.17.22:875][791]SourceControl: rm 'Udemy_ALS/Content/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Yellow.uasset'
+[2025.11.03-14.17.22:974][791]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-14.17.22:974][791]LogContentValidation: Enabled validators:
+[2025.11.03-14.17.22:974][791]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-14.17.22:974][791]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-14.17.22:974][791]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-14.17.22:974][791]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-14.17.22:974][791]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-14.17.22:974][791]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-14.17.22:974][791]AssetCheck: /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Pink 正在验证资产
+[2025.11.03-14.17.27:921][ 80]LogContentBrowser: Attempting asset rename: MI_Manny_02_Yellow -> MI_Manny_02_Pink
+[2025.11.03-14.17.28:571][ 80]LogMaterial: Display: MaterialInterface MI_Manny_02_Yellow has a incorrectly name EditorOnlyData 'MI_Manny_02_YellowEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MI_Manny_02_PinkEditorOnlyData'.
+[2025.11.03-14.17.28:693][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-14.17.28:693][ 80]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Pink] ([1] browsable assets)...
+[2025.11.03-14.17.28:693][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Pink]
+[2025.11.03-14.17.28:706][ 80]LogSavePackage: Moving output files for package: /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Pink
+[2025.11.03-14.17.28:706][ 80]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/MI_Manny_02_PinkF6938E184F0C6B8AA18412869DB7B53D.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Pink.uasset'
+[2025.11.03-14.17.28:876][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 183.023 ms (total: 1.16 sec)
+[2025.11.03-14.17.29:030][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.11.03-14.17.29:049][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.11.03-14.17.29:072][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.11.03-14.17.29:221][ 80]SourceControl: rm 'Udemy_ALS/Content/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Yellow.uasset'
+[2025.11.03-14.17.29:312][ 80]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-14.17.29:312][ 80]LogContentValidation: Enabled validators:
+[2025.11.03-14.17.29:312][ 80]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-14.17.29:312][ 80]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-14.17.29:312][ 80]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-14.17.29:312][ 80]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-14.17.29:312][ 80]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-14.17.29:312][ 80]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-14.17.29:312][ 80]AssetCheck: /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Pink 正在验证资产
+[2025.11.03-14.17.33:996][321]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Pink.MI_Manny_02_Pink
+[2025.11.03-14.17.34:014][321]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.11.03-14.17.35:082][321]LogPSOHitching: Encountered 400 PSO creation hitches so far (141 graphics, 259 compute). 0 of them were precached.
+[2025.11.03-14.17.38:087][478]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Pink.MI_Manny_01_Pink
+[2025.11.03-14.17.38:089][478]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.11.03-14.18.12:202][395]LogSlate: Window '取色器' being destroyed
+[2025.11.03-14.18.24:077][ 99]LogSlate: Window '取色器' being destroyed
+[2025.11.03-14.18.34:943][732]LogSlate: Window '取色器' being destroyed
+[2025.11.03-14.18.45:368][340]LogSlate: Window '取色器' being destroyed
+[2025.11.03-14.18.47:930][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-14.18.48:004][486]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Pink] ([1] browsable assets)...
+[2025.11.03-14.18.48:059][486]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Pink.MI_Manny_01_Pink]
+[2025.11.03-14.18.48:059][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Pink]
+[2025.11.03-14.18.48:155][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.11.03-14.18.52:805][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.11.03-14.18.52:827][486]LogSavePackage: Moving output files for package: /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Pink
+[2025.11.03-14.18.52:827][486]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/MI_Manny_01_Pink3AC43C0549C50CFE039E439527339686.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Pink.uasset'
+[2025.11.03-14.18.52:840][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.90 sec (total: 6.07 sec)
+[2025.11.03-14.18.52:911][486]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-14.18.52:911][486]LogContentValidation: Enabled validators:
+[2025.11.03-14.18.52:911][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-14.18.52:911][486]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-14.18.52:911][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-14.18.52:911][486]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-14.18.52:911][486]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-14.18.52:911][486]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-14.18.52:911][486]AssetCheck: /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_01_Pink 正在验证资产
+[2025.11.03-14.18.59:960][900]LogSlate: Window '取色器' being destroyed
+[2025.11.03-14.19.08:814][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-14.19.08:878][405]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Pink] ([1] browsable assets)...
+[2025.11.03-14.19.08:911][405]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Pink.MI_Manny_02_Pink]
+[2025.11.03-14.19.08:911][405]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Pink]
+[2025.11.03-14.19.08:930][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.03-14.19.13:261][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.11.03-14.19.13:278][405]LogSavePackage: Moving output files for package: /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Pink
+[2025.11.03-14.19.13:278][405]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/MI_Manny_02_Pink67BD021F43E8B61E54DB55920C48E920.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Pink.uasset'
+[2025.11.03-14.19.13:293][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.47 sec (total: 10.5 sec)
+[2025.11.03-14.19.13:359][405]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-14.19.13:359][405]LogContentValidation: Enabled validators:
+[2025.11.03-14.19.13:359][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-14.19.13:359][405]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-14.19.13:359][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-14.19.13:359][405]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-14.19.13:359][405]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-14.19.13:360][405]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-14.19.13:360][405]AssetCheck: /Game/Characters/Heroes/Mannequin/Materials/Instances/Manny/MI_Manny_02_Pink 正在验证资产
+[2025.11.03-14.19.35:501][592]LogSkeletalMesh: Display: 正在等待蒙皮资产就绪0/1（SKM_Manny）……
+[2025.11.03-14.19.38:960][760]LogSkeletalMesh: Display: 正在等待蒙皮资产就绪0/1（SKM_Manny）……
+[2025.11.03-14.19.43:068][973]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-14.19.43:228][973]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Heroes/Mannequin/Meshes/SKM_Manny] ([1] browsable assets)...
+[2025.11.03-14.19.43:238][973]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/Heroes/Mannequin/Meshes/SKM_Manny.SKM_Manny]
+[2025.11.03-14.19.43:238][973]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Heroes/Mannequin/Meshes/SKM_Manny]
+[2025.11.03-14.19.43:394][973]LogSavePackage: Moving output files for package: /Game/Characters/Heroes/Mannequin/Meshes/SKM_Manny
+[2025.11.03-14.19.43:394][973]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/SKM_MannyDF83B1E4482FB46935370F98C44272AB.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/Characters/Heroes/Mannequin/Meshes/SKM_Manny.uasset'
+[2025.11.03-14.19.43:412][973]LogFileHelpers: InternalPromptForCheckoutAndSave took 343.037 ms (total: 10.8 sec)
+[2025.11.03-14.19.43:478][973]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-14.19.43:478][973]LogContentValidation: Enabled validators:
+[2025.11.03-14.19.43:478][973]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-14.19.43:478][973]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-14.19.43:478][973]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-14.19.43:478][973]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-14.19.43:478][973]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-14.19.43:478][973]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-14.19.43:478][973]AssetCheck: /Game/Characters/Heroes/Mannequin/Meshes/SKM_Manny 正在验证资产
+[2025.11.03-14.20.35:546][470]LogShaderCompilers: Display: ================================================
+[2025.11.03-14.20.35:546][470]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Total job queries 588, among them cache hits 48 (8.16%), DDC hits 362 (61.56%), Duplicates 83 (14.12%)
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Tracking 457 distinct input hashes that result in 322 distinct outputs (70.46%)
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: RAM used: 4.08 MiB of 1.20 GiB budget. Usage: 0.33%
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Shaders Compiled: 95
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Jobs assigned 95, completed 95 (100%)
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Average time worker was idle: 38.21 s
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Time job spent in pending queue: average 0.91 s, longest 2.42 s
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Job execution time: average 1.25 s, max 3.74 s
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Job life time (pending + execution): average 2.16 s, max 4.51
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Shader code size: total 1.113 MiB, numShaders 107, average 10.657 KiB, min 5.203 KiB, max 42.312 KiB
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.49 s
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Jobs were issued in 95 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Average processing rate: 5.14 jobs/sec
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Total thread time: 105.735 s
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Total thread preprocess time: 12.56 s
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Percentage time preprocessing: 11.88%
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Effective parallelization: 5.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.571862
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 3.37 sec, max 3.66 sec, min 3.01 sec)
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    2 times, average 2.14 sec, max 2.18 sec, min 2.10 sec)
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    4 times, average 1.77 sec, max 2.00 sec, min 1.53 sec)
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    4 times, average 1.72 sec, max 1.97 sec, min 1.45 sec)
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    4 times, average 1.70 sec, max 1.99 sec, min 1.43 sec)
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.75% of total time (compiled    4 times, average 3.37 sec, max 3.66 sec, min 3.01 sec)
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.11% of total time (compiled    8 times, average 1.07 sec, max 1.39 sec, min 0.86 sec)
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display:                                                  FVelocityPS - 6.71% of total time (compiled    4 times, average 1.77 sec, max 2.00 sec, min 1.53 sec)
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 6.51% of total time (compiled    4 times, average 1.72 sec, max 1.97 sec, min 1.45 sec)
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display:                                                FAnisotropyPS - 6.45% of total time (compiled    4 times, average 1.70 sec, max 1.99 sec, min 1.43 sec)
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: === Material stats ===
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Materials Translated:    145
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Material Translation Only: 0.05 s (41%)
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: Material Cache Hits: 18 (12%)
+[2025.11.03-14.20.35:547][470]LogShaderCompilers: Display: ================================================
+[2025.11.03-14.23.01:912][909]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1052.286987
+[2025.11.03-14.23.02:912][912]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-14.23.02:912][912]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1052.960083, Update Interval: 312.880035
+[2025.11.03-14.28.30:970][896]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1381.347412
+[2025.11.03-14.28.32:300][900]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-14.28.32:300][900]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1382.341187, Update Interval: 328.728302
+[2025.11.03-14.34.31:037][976]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1741.413940
+[2025.11.03-14.34.32:039][979]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-14.34.32:039][980]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1742.080200, Update Interval: 328.785065
+[2025.11.03-14.40.46:791][103]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2117.169189
+[2025.11.03-14.40.47:792][106]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-14.40.47:792][106]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2117.835693, Update Interval: 341.914124
+[2025.11.03-14.45.30:201][953]LogEOSSDK: Warning: LogHttp: 0000026F2B3D2400: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B992D77CB-4C8F-50E8-32E6-7BB1FAE376D4%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.11.03-14.45.30:201][953]LogEOSSDK: Warning: LogHttp: 0000026F2B3D2400: request failed, libcurl error: 35 (SSL connect error)
+[2025.11.03-14.45.30:201][953]LogEOSSDK: Warning: LogHttp: 0000026F2B3D2400: libcurl info message cache 0 (Connection 7 seems to be dead)
+[2025.11.03-14.45.30:201][953]LogEOSSDK: Warning: LogHttp: 0000026F2B3D2400: libcurl info message cache 1 (Closing connection)
+[2025.11.03-14.45.30:201][953]LogEOSSDK: Warning: LogHttp: 0000026F2B3D2400: libcurl info message cache 2 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.11.03-14.45.30:201][954]LogEOSSDK: Warning: LogHttp: 0000026F2B3D2400: libcurl info message cache 3 (  Trying 127.0.0.1:7897...)
+[2025.11.03-14.45.30:201][954]LogEOSSDK: Warning: LogHttp: 0000026F2B3D2400: libcurl info message cache 4 (Connected to 127.0.0.1 (127.0.0.1) port 7897)
+[2025.11.03-14.45.30:201][954]LogEOSSDK: Warning: LogHttp: 0000026F2B3D2400: libcurl info message cache 5 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.11.03-14.45.30:201][954]LogEOSSDK: Warning: LogHttp: 0000026F2B3D2400: libcurl info message cache 6 (allocate connect buffer)
+[2025.11.03-14.45.30:201][954]LogEOSSDK: Warning: LogHttp: 0000026F2B3D2400: libcurl info message cache 7 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2025.11.03-14.45.30:201][954]LogEOSSDK: Warning: LogHttp: 0000026F2B3D2400: libcurl info message cache 8 (CONNECT phase completed)
+[2025.11.03-14.45.30:201][954]LogEOSSDK: Warning: LogHttp: 0000026F2B3D2400: libcurl info message cache 9 (CONNECT tunnel established, response 200)
+[2025.11.03-14.45.30:201][954]LogEOSSDK: Warning: LogHttp: 0000026F2B3D2400: libcurl info message cache 10 (ALPN: curl offers http/1.1)
+[2025.11.03-14.45.30:201][954]LogEOSSDK: Warning: LogHttp: 0000026F2B3D2400: libcurl info message cache 11 (SSL reusing session ID)
+[2025.11.03-14.45.30:201][954]LogEOSSDK: Warning: LogHttp: 0000026F2B3D2400: libcurl info message cache 12 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.11.03-14.45.30:201][954]LogEOSSDK: Warning: LogHttp: 0000026F2B3D2400: libcurl info message cache 13 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.epicgames.dev:443 )
+[2025.11.03-14.45.30:201][954]LogEOSSDK: Warning: LogHttp: 0000026F2B3D2400: libcurl info message cache 14 (Closing connection)
+[2025.11.03-14.45.30:534][955]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B992D77CB-4C8F-50E8-32E6-7BB1FAE376D4%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.11.03-14.45.34:866][967]LogHttp: Warning: 0000026E3C3FAF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA704549E-43E9-0D4C-8E91-D0A758F8A1DD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=d02680074527bc0e980b179fbd9d1eab%7Cb07d9692099544088b6bbbbd975a45fd%7C264752aa-4d77-4eab-9809-1097b349cd64&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.11.03-14.45.34:866][967]LogHttp: Warning: 0000026E3C3FAF00: request failed, libcurl error: 35 (SSL connect error)
+[2025.11.03-14.45.34:866][967]LogHttp: Warning: 0000026E3C3FAF00: libcurl info message cache 0 (Connection 1 seems to be dead)
+[2025.11.03-14.45.34:866][967]LogHttp: Warning: 0000026E3C3FAF00: libcurl info message cache 1 (shutting down connection #1)
+[2025.11.03-14.45.34:866][967]LogHttp: Warning: 0000026E3C3FAF00: libcurl info message cache 2 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.11.03-14.45.34:866][967]LogHttp: Warning: 0000026E3C3FAF00: libcurl info message cache 3 (  Trying 127.0.0.1:7897...)
+[2025.11.03-14.45.34:866][967]LogHttp: Warning: 0000026E3C3FAF00: libcurl info message cache 4 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.11.03-14.45.34:866][967]LogHttp: Warning: 0000026E3C3FAF00: libcurl info message cache 5 (allocate connect buffer)
+[2025.11.03-14.45.34:866][967]LogHttp: Warning: 0000026E3C3FAF00: libcurl info message cache 6 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2025.11.03-14.45.34:866][967]LogHttp: Warning: 0000026E3C3FAF00: libcurl info message cache 7 (CONNECT phase completed)
+[2025.11.03-14.45.34:866][967]LogHttp: Warning: 0000026E3C3FAF00: libcurl info message cache 8 (CONNECT tunnel established, response 200)
+[2025.11.03-14.45.34:866][967]LogHttp: Warning: 0000026E3C3FAF00: libcurl info message cache 9 (SSL reusing session)
+[2025.11.03-14.45.34:866][967]LogHttp: Warning: 0000026E3C3FAF00: libcurl info message cache 10 (ALPN: curl offers http/1.1)
+[2025.11.03-14.45.34:866][967]LogHttp: Warning: 0000026E3C3FAF00: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.11.03-14.45.34:866][967]LogHttp: Warning: 0000026E3C3FAF00: libcurl info message cache 12 (TLS connect error: error:00000000:lib(0):func(0):reason(0))
+[2025.11.03-14.45.34:866][967]LogHttp: Warning: 0000026E3C3FAF00: libcurl info message cache 13 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2025.11.03-14.45.34:866][967]LogHttp: Warning: 0000026E3C3FAF00: libcurl info message cache 14 (closing connection #2)
+[2025.11.03-14.45.34:867][967]LogHttp: Warning: 0000026E3C3FAF00 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA704549E-43E9-0D4C-8E91-D0A758F8A1DD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=d02680074527bc0e980b179fbd9d1eab%7Cb07d9692099544088b6bbbbd975a45fd%7C264752aa-4d77-4eab-9809-1097b349cd64&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.15s
+[2025.11.03-14.47.26:229][301]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2516.605957
+[2025.11.03-14.47.27:228][304]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-14.47.27:228][304]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2517.270264, Update Interval: 356.491577
+[2025.11.03-14.53.57:290][474]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2907.664551
+[2025.11.03-14.53.58:626][479]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-14.53.58:626][479]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2908.665039, Update Interval: 300.034790
+[2025.11.03-14.59.52:717][540]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3263.089600
+[2025.11.03-14.59.53:718][543]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-14.59.53:718][543]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3263.756836, Update Interval: 304.515533
+[2025.11.03-15.04.43:135][405]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.11.03-15.04.43:135][405]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.11.03-15.05.00:773][405]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.03-15.05.00:773][405]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.03-15.05.00:773][405]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=AudioMixerPlatformInterface. Timeout waiting for h/w.
+[2025.11.03-15.05.01:430][407]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{c760a91e-1579-4860-89ba-c7be2c022fb9}, Name=扬声器 (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=321.77
+[2025.11.03-15.05.01:430][407]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.03-15.05.01:430][407]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.03-15.05.01:433][407]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.03-15.05.10:762][435]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.11.03-15.05.10:762][435]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.11.03-15.05.10:763][435]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.03-15.05.10:763][435]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.03-15.05.10:763][435]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=AudioMixerPlatformInterface. Timeout waiting for h/w.
+[2025.11.03-15.05.40:294][436]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3610.668213
+[2025.11.03-15.05.40:559][437]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{c760a91e-1579-4860-89ba-c7be2c022fb9}, Name=扬声器 (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=29596.88
+[2025.11.03-15.05.40:559][437]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.03-15.05.40:559][437]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.03-15.05.40:562][437]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.03-15.05.41:561][440]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-15.05.41:561][440]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3611.600098, Update Interval: 351.501831
+[2025.11.03-15.08.12:803][891]LogDerivedDataCache: C:/Users/Marsk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.03-15.10.42:172][763]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2025.11.03-15.10.42:181][763]LogContentBrowser: Creating deferred item: 新建文件夹
+[2025.11.03-15.10.42:195][764]LogContentBrowser: Renaming the item being created (Deferred Item: 新建文件夹).
+[2025.11.03-15.10.44:067][874]LogContentBrowser: Attempting asset rename: 新建文件夹 -> ALS
+[2025.11.03-15.10.44:067][874]LogContentBrowser: End creating deferred item 新建文件夹
+[2025.11.03-15.10.54:451][473]LogSlate: Window '取色器' being destroyed
+[2025.11.03-15.11.48:553][ 37]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2025.11.03-15.11.48:563][ 37]LogContentBrowser: Creating deferred item: 新建文件夹
+[2025.11.03-15.11.48:593][ 39]LogContentBrowser: Renaming the item being created (Deferred Item: 新建文件夹).
+[2025.11.03-15.11.53:615][340]LogContentBrowser: Attempting asset rename: 新建文件夹 -> Character
+[2025.11.03-15.11.53:615][340]LogContentBrowser: End creating deferred item 新建文件夹
+[2025.11.03-15.12.01:583][637]LogSlate: Window '选取父类' being destroyed
+[2025.11.03-15.12.01:594][637]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.11.03-15.12.01:606][637]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.11.03-15.12.01:668][639]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.11.03-15.12.09:531][ 99]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_LyraGameMode
+[2025.11.03-15.12.09:654][ 99]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.11.03-15.12.10:946][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-15.12.11:015][169]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ALS/Character/BP_LyraGameMode] ([2] browsable assets)...
+[2025.11.03-15.12.11:015][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/ALS/Character/BP_LyraGameMode]
+[2025.11.03-15.12.11:015][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ALS/Character/BP_LyraGameMode" FILE="../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/Character/BP_LyraGameMode.uasset" SILENT=true
+[2025.11.03-15.12.11:029][169]LogSavePackage: Moving output files for package: /Game/ALS/Character/BP_LyraGameMode
+[2025.11.03-15.12.11:029][169]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/BP_LyraGameModeD79B0944422573F62960A7BB78B00827.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/Character/BP_LyraGameMode.uasset'
+[2025.11.03-15.12.11:230][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 283.605 ms (total: 11.1 sec)
+[2025.11.03-15.12.11:301][169]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-15.12.11:301][169]LogContentValidation: Enabled validators:
+[2025.11.03-15.12.11:301][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-15.12.11:301][169]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-15.12.11:301][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-15.12.11:301][169]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-15.12.11:301][169]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-15.12.11:301][169]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-15.12.11:301][169]AssetCheck: /Game/ALS/Character/BP_LyraGameMode 正在验证资产
+[2025.11.03-15.12.15:384][317]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4005.755371
+[2025.11.03-15.12.16:645][331]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-15.12.16:645][331]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4006.686279, Update Interval: 354.523132
+[2025.11.03-15.13.33:709][ 92]LogContentBrowser: Attempting asset rename: Character -> ALSCharacter
+[2025.11.03-15.13.34:494][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-15.13.34:494][ 92]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ALS/ALSCharacter/BP_LyraGameMode] ([2] browsable assets)...
+[2025.11.03-15.13.34:494][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/ALS/ALSCharacter/BP_LyraGameMode]
+[2025.11.03-15.13.34:494][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ALS/ALSCharacter/BP_LyraGameMode" FILE="../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/ALSCharacter/BP_LyraGameMode.uasset" SILENT=true
+[2025.11.03-15.13.34:505][ 92]LogSavePackage: Moving output files for package: /Game/ALS/ALSCharacter/BP_LyraGameMode
+[2025.11.03-15.13.34:505][ 92]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/BP_LyraGameMode353538344709481F5678318163684297.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/ALSCharacter/BP_LyraGameMode.uasset'
+[2025.11.03-15.13.34:666][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.991 ms (total: 11.3 sec)
+[2025.11.03-15.13.34:817][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.11.03-15.13.34:841][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.11.03-15.13.34:863][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.11.03-15.13.35:026][ 92]SourceControl: rm 'Udemy_ALS/Content/ALS/Character/BP_LyraGameMode.uasset'
+[2025.11.03-15.13.35:133][ 92]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-15.13.35:133][ 92]LogContentValidation: Enabled validators:
+[2025.11.03-15.13.35:133][ 92]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-15.13.35:133][ 92]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-15.13.35:133][ 92]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-15.13.35:133][ 92]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-15.13.35:133][ 92]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-15.13.35:133][ 92]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-15.13.35:133][ 92]AssetCheck: /Game/ALS/ALSCharacter/BP_LyraGameMode 正在验证资产
+[2025.11.03-15.13.40:371][195]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ALS/ALSCharacter/BP_LyraGameMode.BP_LyraGameMode
+[2025.11.03-15.13.40:372][195]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.11.03-15.13.40:409][195]LogStreaming: Display: FlushAsyncLoading(484): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-15.13.41:536][195]LogStaticMesh: Display: 正在构建静态网格体PhAT_FloorBox（所需内存估计：0.024887MB）…
+[2025.11.03-15.13.41:537][195]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.11.03-15.13.42:731][197]LogPSOHitching: Encountered 450 PSO creation hitches so far (171 graphics, 279 compute). 0 of them were precached.
+[2025.11.03-15.13.45:049][252]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-15.13.45:049][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-15.13.45:131][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.11.03-15.13.45:511][273]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-15.13.45:511][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-15.13.45:554][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.11.03-15.13.45:968][295]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-15.13.45:968][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-15.13.46:002][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.11.03-15.14.20:291][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-15.14.20:363][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level01" FILE="../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/Levels/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.03-15.14.20:433][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.11.03-15.14.20:452][761]LogSavePackage: Moving output files for package: /Game/Levels/Level01
+[2025.11.03-15.14.20:453][761]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/Level01A534C7F74480B10775A251B19A2DA681.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/Levels/Level01.umap'
+[2025.11.03-15.14.20:460][761]LogFileHelpers: Saving map 'Level01' took 0.098
+[2025.11.03-15.14.20:474][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.292 ms (total: 11.5 sec)
+[2025.11.03-15.14.20:538][761]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-15.14.20:538][761]LogContentValidation: Enabled validators:
+[2025.11.03-15.14.20:538][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-15.14.20:538][761]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-15.14.20:538][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-15.14.20:538][761]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-15.14.20:538][761]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-15.14.20:538][761]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-15.14.20:538][761]AssetCheck: /Game/Levels/Level01 正在验证资产
+[2025.11.03-15.15.52:203][120]LogSlate: Window '选取父类' being destroyed
+[2025.11.03-15.15.52:212][120]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.11.03-15.15.52:222][120]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.11.03-15.15.52:247][121]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.11.03-15.15.58:920][513]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_LyraCharacter
+[2025.11.03-15.15.59:036][513]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.11.03-15.16.00:064][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-15.16.00:135][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ALS/ALSCharacter/BP_LyraCharacter] ([2] browsable assets)...
+[2025.11.03-15.16.00:135][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/ALS/ALSCharacter/BP_LyraCharacter]
+[2025.11.03-15.16.00:136][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ALS/ALSCharacter/BP_LyraCharacter" FILE="../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/ALSCharacter/BP_LyraCharacter.uasset" SILENT=true
+[2025.11.03-15.16.00:148][567]LogSavePackage: Moving output files for package: /Game/ALS/ALSCharacter/BP_LyraCharacter
+[2025.11.03-15.16.00:149][567]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/BP_LyraCharacter042679CB4074486C68303DB559045332.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/ALSCharacter/BP_LyraCharacter.uasset'
+[2025.11.03-15.16.00:328][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 263.871 ms (total: 11.7 sec)
+[2025.11.03-15.16.00:389][567]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-15.16.00:389][567]LogContentValidation: Enabled validators:
+[2025.11.03-15.16.00:389][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-15.16.00:389][567]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-15.16.00:389][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-15.16.00:389][567]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-15.16.00:390][567]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-15.16.00:390][567]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-15.16.00:390][567]AssetCheck: /Game/ALS/ALSCharacter/BP_LyraCharacter 正在验证资产
+[2025.11.03-15.16.08:426][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.11.03-15.16.08:536][  3]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-15.16.08:602][  3]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ALS/ALSCharacter/BP_LyraGameMode] ([2] browsable assets)...
+[2025.11.03-15.16.08:602][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/ALS/ALSCharacter/BP_LyraGameMode]
+[2025.11.03-15.16.08:602][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ALS/ALSCharacter/BP_LyraGameMode" FILE="../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/ALSCharacter/BP_LyraGameMode.uasset" SILENT=true
+[2025.11.03-15.16.08:615][  3]LogSavePackage: Moving output files for package: /Game/ALS/ALSCharacter/BP_LyraGameMode
+[2025.11.03-15.16.08:615][  3]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/BP_LyraGameMode62BD382F49CBC04B24C85284A51DB029.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/ALSCharacter/BP_LyraGameMode.uasset'
+[2025.11.03-15.16.08:628][  3]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.725 ms (total: 11.8 sec)
+[2025.11.03-15.16.08:703][  3]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-15.16.08:703][  3]LogContentValidation: Enabled validators:
+[2025.11.03-15.16.08:703][  3]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-15.16.08:703][  3]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-15.16.08:703][  3]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-15.16.08:703][  3]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-15.16.08:703][  3]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-15.16.08:703][  3]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-15.16.08:703][  3]AssetCheck: /Game/ALS/ALSCharacter/BP_LyraGameMode 正在验证资产
+[2025.11.03-15.16.29:930][185]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ALS/ALSCharacter/BP_LyraCharacter.BP_LyraCharacter
+[2025.11.03-15.16.29:930][185]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.11.03-15.17.20:252][758]LogPSOHitching: Encountered 500 PSO creation hitches so far (197 graphics, 303 compute). 0 of them were precached.
+[2025.11.03-15.17.21:332][813]SourceControl: fatal: F:/Unreal Engine/UE_5.6/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'F:/Unreal Engine/UE_5.6/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'F:/Unreal Projects/Udemy_ALS'
+[2025.11.03-15.17.21:332][813]SourceControl: fatal: F:/Unreal Engine/UE_5.6/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'F:/Unreal Engine/UE_5.6/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository at 'F:/Unreal Projects/Udemy_ALS'
+[2025.11.03-15.17.21:332][813]SourceControl: fatal: F:/Unreal Engine/UE_5.6/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset: 'F:/Unreal Engine/UE_5.6/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset' is outside repository at 'F:/Unreal Projects/Udemy_ALS'
+[2025.11.03-15.17.22:574][876]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.11.03-15.17.26:304][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.11.03-15.17.26:498][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-15.17.26:579][ 86]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ALS/ALSCharacter/BP_LyraCharacter] ([2] browsable assets)...
+[2025.11.03-15.17.26:658][ 86]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ALS/ALSCharacter/BP_LyraCharacter.BP_LyraCharacter]
+[2025.11.03-15.17.26:660][ 86]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.11.03-15.17.26:684][ 86]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ALS/ALSCharacter/BP_LyraCharacter.BP_LyraCharacter_C]
+[2025.11.03-15.17.26:684][ 86]OBJ SavePackage: Finished generating thumbnails for package [/Game/ALS/ALSCharacter/BP_LyraCharacter]
+[2025.11.03-15.17.26:684][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ALS/ALSCharacter/BP_LyraCharacter" FILE="../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/ALSCharacter/BP_LyraCharacter.uasset" SILENT=true
+[2025.11.03-15.17.26:700][ 86]LogSavePackage: Moving output files for package: /Game/ALS/ALSCharacter/BP_LyraCharacter
+[2025.11.03-15.17.26:700][ 86]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/BP_LyraCharacter5BADBA454186709A2E5D87A4DFB13872.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/ALSCharacter/BP_LyraCharacter.uasset'
+[2025.11.03-15.17.26:709][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave took 210.579 ms (total: 12.1 sec)
+[2025.11.03-15.17.26:859][ 86]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-15.17.26:859][ 86]LogContentValidation: Enabled validators:
+[2025.11.03-15.17.26:859][ 86]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-15.17.26:859][ 86]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-15.17.26:859][ 86]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-15.17.26:859][ 86]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-15.17.26:859][ 86]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-15.17.26:859][ 86]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-15.17.26:859][ 86]AssetCheck: /Game/ALS/ALSCharacter/BP_LyraCharacter 正在验证资产
+[2025.11.03-15.18.11:279][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.11.03-15.18.11:395][932]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-15.18.11:464][932]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ALS/ALSCharacter/BP_LyraCharacter] ([2] browsable assets)...
+[2025.11.03-15.18.11:506][932]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ALS/ALSCharacter/BP_LyraCharacter.BP_LyraCharacter]
+[2025.11.03-15.18.11:507][932]OBJ SavePackage: Finished generating thumbnails for package [/Game/ALS/ALSCharacter/BP_LyraCharacter]
+[2025.11.03-15.18.11:507][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ALS/ALSCharacter/BP_LyraCharacter" FILE="../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/ALSCharacter/BP_LyraCharacter.uasset" SILENT=true
+[2025.11.03-15.18.11:519][932]LogSavePackage: Moving output files for package: /Game/ALS/ALSCharacter/BP_LyraCharacter
+[2025.11.03-15.18.11:520][932]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/BP_LyraCharacterE23B0D794EF211BC85DC3E9E01444A21.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/ALSCharacter/BP_LyraCharacter.uasset'
+[2025.11.03-15.18.11:531][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.646 ms (total: 12.2 sec)
+[2025.11.03-15.18.11:614][932]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-15.18.11:614][932]LogContentValidation: Enabled validators:
+[2025.11.03-15.18.11:614][932]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-15.18.11:614][932]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-15.18.11:614][932]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-15.18.11:614][932]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-15.18.11:614][932]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-15.18.11:614][932]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-15.18.11:615][932]AssetCheck: /Game/ALS/ALSCharacter/BP_LyraCharacter 正在验证资产
+[2025.11.03-15.18.13:733][ 48]LogPSOHitching: Encountered 550 PSO creation hitches so far (216 graphics, 334 compute). 0 of them were precached.
+[2025.11.03-15.18.14:037][ 48]LogPSOHitching: Encountered 600 PSO creation hitches so far (217 graphics, 383 compute). 0 of them were precached.
+[2025.11.03-15.18.15:082][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.03-15.18.15:092][ 73]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.11.03-15.18.15:092][ 73]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.11.03-15.18.15:093][ 73]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level01
+[2025.11.03-15.18.15:095][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002519s)
+[2025.11.03-15.18.15:095][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level01.Level01 to /Game/Levels/UEDPIE_0_Level01.Level01 (0.002689s)
+[2025.11.03-15.18.15:124][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.11.03-15.18.15:130][ 73]LogChaosDD: Creating Chaos Debug Draw Scene for world Level01
+[2025.11.03-15.18.15:133][ 73]LogPlayLevel: PIE: World Init took: (0.002340s)
+[2025.11.03-15.18.15:134][ 73]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.11.03-15.18.15:134][ 73]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-15.18.15:134][ 73]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-15.18.15:134][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-15.18.15:134][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-15.18.15:134][ 73]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-15.18.15:134][ 73]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-15.18.15:134][ 73]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-15.18.15:134][ 73]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-15.18.15:134][ 73]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-15.18.15:134][ 73]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-15.18.15:134][ 73]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-15.18.15:136][ 73]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-15.18.15:174][ 73]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2025.11.03-15.18.15:174][ 73]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-15.18.15:174][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-15.18.15:174][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-15.18.15:175][ 73]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.11.03-15.18.15:175][ 73]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.11.03-15.18.15:177][ 73]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.11.03-15.18.15:177][ 73]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.11.03-15.18.15:177][ 73]LogInit: FAudioDevice initialized with ID 2.
+[2025.11.03-15.18.15:177][ 73]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level01'.
+[2025.11.03-15.18.15:177][ 73]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.11.03-15.18.15:183][ 73]LogLoad: Game class is 'BP_LyraGameMode_C'
+[2025.11.03-15.18.15:184][ 73]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2025.11.03-23.18.15
+[2025.11.03-15.18.15:184][ 73]LogWorld: Bringing up level for play took: 0.000991
+[2025.11.03-15.18.15:187][ 73]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.11.03-15.18.15:201][ 73]PIE: 登陆的服务器
+[2025.11.03-15.18.15:203][ 73]PIE: PIE总开始时间：0.123秒。
+[2025.11.03-15.18.15:248][ 74]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.03-15.18.15:311][ 75]LogPSOHitching: Encountered 650 PSO creation hitches so far (233 graphics, 417 compute). 0 of them were precached.
+[2025.11.03-15.18.17:485][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-15.18.17:485][184]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level01
+[2025.11.03-15.18.17:485][184]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-15.18.17:486][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-15.18.17:487][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-15.18.17:492][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-15.18.17:521][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-15.18.17:522][184]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.11.03-15.18.17:524][184]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.11.03-15.18.17:526][184]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.11.03-15.18.17:535][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.11.03-15.18.17:567][185]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.11.03-15.18.18:802][258]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.11.03-15.18.18:808][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.03-15.18.18:808][258]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level01
+[2025.11.03-15.18.18:809][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001637s)
+[2025.11.03-15.18.18:809][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level01.Level01 to /Game/Levels/UEDPIE_0_Level01.Level01 (0.001672s)
+[2025.11.03-15.18.18:838][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.11.03-15.18.18:839][258]LogChaosDD: Creating Chaos Debug Draw Scene for world Level01
+[2025.11.03-15.18.18:841][258]LogPlayLevel: PIE: World Init took: (0.001610s)
+[2025.11.03-15.18.18:842][258]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.11.03-15.18.18:842][258]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-15.18.18:842][258]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-15.18.18:842][258]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-15.18.18:842][258]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-15.18.18:842][258]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-15.18.18:842][258]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-15.18.18:842][258]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-15.18.18:842][258]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-15.18.18:842][258]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-15.18.18:842][258]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-15.18.18:842][258]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-15.18.18:844][258]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-15.18.18:879][258]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2025.11.03-15.18.18:879][258]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-15.18.18:879][258]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-15.18.18:879][258]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-15.18.18:880][258]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.11.03-15.18.18:880][258]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.11.03-15.18.18:883][258]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.11.03-15.18.18:883][258]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.11.03-15.18.18:883][258]LogInit: FAudioDevice initialized with ID 3.
+[2025.11.03-15.18.18:883][258]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level01'.
+[2025.11.03-15.18.18:883][258]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.11.03-15.18.18:886][258]LogLoad: Game class is 'BP_LyraGameMode_C'
+[2025.11.03-15.18.18:887][258]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2025.11.03-23.18.18
+[2025.11.03-15.18.18:887][258]LogWorld: Bringing up level for play took: 0.000614
+[2025.11.03-15.18.18:889][258]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.11.03-15.18.18:898][258]PIE: 登陆的服务器
+[2025.11.03-15.18.18:899][258]PIE: PIE总开始时间：0.092秒。
+[2025.11.03-15.18.18:952][259]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.03-15.18.22:172][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-15.18.22:172][432]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level01
+[2025.11.03-15.18.22:173][432]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-15.18.22:173][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-15.18.22:174][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-15.18.22:178][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-15.18.22:203][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-15.18.22:203][432]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.11.03-15.18.22:203][432]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.11.03-15.18.22:205][432]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.11.03-15.18.22:215][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.11.03-15.18.22:259][434]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.11.03-15.18.53:011][568]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4403.386230
+[2025.11.03-15.18.54:011][571]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-15.18.54:011][571]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4404.053711, Update Interval: 352.688385
+[2025.11.03-15.20.19:420][ 63]LogEditorTransaction: Undo 修改组件
+[2025.11.03-15.20.19:788][ 70]LogEditorTransaction: Undo 修改组件
+[2025.11.03-15.20.25:111][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-15.20.25:175][367]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ALS/ALSCharacter/BP_LyraCharacter] ([2] browsable assets)...
+[2025.11.03-15.20.25:184][367]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ALS/ALSCharacter/BP_LyraCharacter.BP_LyraCharacter]
+[2025.11.03-15.20.25:184][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/ALS/ALSCharacter/BP_LyraCharacter]
+[2025.11.03-15.20.25:184][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ALS/ALSCharacter/BP_LyraCharacter" FILE="../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/ALSCharacter/BP_LyraCharacter.uasset" SILENT=true
+[2025.11.03-15.20.25:199][367]LogSavePackage: Moving output files for package: /Game/ALS/ALSCharacter/BP_LyraCharacter
+[2025.11.03-15.20.25:199][367]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/BP_LyraCharacter47CDEFF64EA0F184FFF3CF85920B999A.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/ALSCharacter/BP_LyraCharacter.uasset'
+[2025.11.03-15.20.25:209][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.808 ms (total: 12.3 sec)
+[2025.11.03-15.20.25:289][367]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-15.20.25:289][367]LogContentValidation: Enabled validators:
+[2025.11.03-15.20.25:289][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-15.20.25:289][367]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-15.20.25:289][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-15.20.25:289][367]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-15.20.25:289][367]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-15.20.25:289][367]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-15.20.25:290][367]AssetCheck: /Game/ALS/ALSCharacter/BP_LyraCharacter 正在验证资产
+[2025.11.03-15.20.26:876][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: ================================================
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Total job queries 598, among them cache hits 52 (8.70%), DDC hits 363 (60.70%), Duplicates 83 (13.88%)
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Tracking 463 distinct input hashes that result in 327 distinct outputs (70.63%)
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: RAM used: 4.11 MiB of 1.20 GiB budget. Usage: 0.33%
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Shaders Compiled: 100
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Jobs assigned 100, completed 100 (100%)
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Average time worker was idle: 237.63 s
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Time job spent in pending queue: average 0.87 s, longest 2.42 s
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Job execution time: average 1.23 s, max 3.74 s
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Job life time (pending + execution): average 2.10 s, max 4.51
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Shader code size: total 1.147 MiB, numShaders 112, average 10.491 KiB, min 5.203 KiB, max 42.312 KiB
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.62 s
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Jobs were issued in 100 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Average processing rate: 5.10 jobs/sec
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Total thread time: 108.795 s
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Total thread preprocess time: 12.717 s
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Percentage time preprocessing: 11.69%
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Effective parallelization: 5.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.554580
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 3.37 sec, max 3.66 sec, min 3.01 sec)
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    2 times, average 2.14 sec, max 2.18 sec, min 2.10 sec)
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    4 times, average 1.77 sec, max 2.00 sec, min 1.53 sec)
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    4 times, average 1.72 sec, max 1.97 sec, min 1.45 sec)
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    4 times, average 1.70 sec, max 1.99 sec, min 1.43 sec)
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.39% of total time (compiled    4 times, average 3.37 sec, max 3.66 sec, min 3.01 sec)
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.19% of total time (compiled   10 times, average 1.00 sec, max 1.39 sec, min 0.71 sec)
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display:                                                  FVelocityPS - 6.52% of total time (compiled    4 times, average 1.77 sec, max 2.00 sec, min 1.53 sec)
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 6.33% of total time (compiled    4 times, average 1.72 sec, max 1.97 sec, min 1.45 sec)
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display:                                                FAnisotropyPS - 6.27% of total time (compiled    4 times, average 1.70 sec, max 1.99 sec, min 1.43 sec)
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: === Material stats ===
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Materials Translated:    146
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Material Translation Only: 0.05 s (41%)
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: Material Cache Hits: 18 (12%)
+[2025.11.03-15.20.41:147][495]LogShaderCompilers: Display: ================================================
+[2025.11.03-15.23.33:730][685]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ALS/ALSCharacter/BP_LyraCharacter.BP_LyraCharacter_C
+[2025.11.03-15.23.33:730][685]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ALS/ALSCharacter/BP_LyraCharacter.BP_LyraCharacter_C
+[2025.11.03-15.23.33:736][685]LogActorFactory: Actor Factory spawned Blueprint /Game/ALS/ALSCharacter/BP_LyraCharacter.BP_LyraCharacter as actor: BP_LyraCharacter_C /Game/Levels/Level01.Level01:PersistentLevel.BP_LyraCharacter_C_0
+[2025.11.03-15.23.33:739][685]LogActorFactory: Actor Factory spawned Blueprint /Game/ALS/ALSCharacter/BP_LyraCharacter.BP_LyraCharacter as actor: BP_LyraCharacter_C /Game/Levels/Level01.Level01:PersistentLevel.BP_LyraCharacter_C_0
+[2025.11.03-15.23.33:747][685]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.11.03-15.23.34:625][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.11.03-15.23.34:632][728]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2025.11.03-15.23.34:636][728]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ALS/ALSCharacter/BP_LyraCharacter.BP_LyraCharacter_C
+[2025.11.03-15.23.34:636][728]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ALS/ALSCharacter/BP_LyraCharacter.BP_LyraCharacter_C
+[2025.11.03-15.23.34:645][728]LogActorFactory: Actor Factory spawned Blueprint /Game/ALS/ALSCharacter/BP_LyraCharacter.BP_LyraCharacter as actor: BP_LyraCharacter_C /Game/Levels/Level01.Level01:PersistentLevel.BP_LyraCharacter_C_1
+[2025.11.03-15.23.34:648][728]LogActorFactory: Actor Factory spawned Blueprint /Game/ALS/ALSCharacter/BP_LyraCharacter.BP_LyraCharacter as actor: BP_LyraCharacter_C /Game/Levels/Level01.Level01:PersistentLevel.BP_LyraCharacter_C_1
+[2025.11.03-15.24.56:234][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.11.03-15.24.56:241][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level01" FILE="../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/Autosaves/Game/Levels/Level01_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.11.03-15.24.56:258][ 31]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level01_Auto1
+[2025.11.03-15.24.56:258][ 31]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/Level01_Auto12C3B8400418C4FD076F79BABE2D204DC.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/Autosaves/Game/Levels/Level01_Auto1.umap'
+[2025.11.03-15.24.56:260][ 31]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level01' took 0.062
+[2025.11.03-15.24.56:260][ 31]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2025.11.03-15.25.33:805][144]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4804.187500
+[2025.11.03-15.25.35:139][148]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-15.25.35:139][148]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4805.188965, Update Interval: 328.058105
+[2025.11.03-15.27.27:570][723]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2025.11.03-15.27.27:581][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.03-15.27.27:581][723]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level01
+[2025.11.03-15.27.27:583][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002201s)
+[2025.11.03-15.27.27:583][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level01.Level01 to /Game/Levels/UEDPIE_0_Level01.Level01 (0.002238s)
+[2025.11.03-15.27.27:615][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.11.03-15.27.27:619][723]LogChaosDD: Creating Chaos Debug Draw Scene for world Level01
+[2025.11.03-15.27.27:621][723]LogPlayLevel: PIE: World Init took: (0.002023s)
+[2025.11.03-15.27.27:621][723]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.11.03-15.27.27:621][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.03-15.27.27:621][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.03-15.27.27:621][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.03-15.27.27:621][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.03-15.27.27:621][723]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.03-15.27.27:621][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.03-15.27.27:621][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.03-15.27.27:621][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.03-15.27.27:621][723]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.03-15.27.27:621][723]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.03-15.27.27:621][723]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.03-15.27.27:624][723]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.03-15.27.27:663][723]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2025.11.03-15.27.27:663][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.03-15.27.27:663][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.03-15.27.27:663][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.03-15.27.27:664][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.11.03-15.27.27:664][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.11.03-15.27.27:666][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.11.03-15.27.27:666][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.11.03-15.27.27:666][723]LogInit: FAudioDevice initialized with ID 4.
+[2025.11.03-15.27.27:666][723]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level01'.
+[2025.11.03-15.27.27:666][723]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.11.03-15.27.27:672][723]LogLoad: Game class is 'BP_LyraGameMode_C'
+[2025.11.03-15.27.27:675][723]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 60) at 2025.11.03-23.27.27
+[2025.11.03-15.27.27:677][723]LogWorld: Bringing up level for play took: 0.004887
+[2025.11.03-15.27.27:682][723]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.11.03-15.27.27:684][723]PIE: 登陆的服务器
+[2025.11.03-15.27.27:686][723]PIE: PIE总开始时间：0.109秒。
+[2025.11.03-15.27.27:756][724]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.03-15.27.27:851][725]LogPSOHitching: Encountered 700 PSO creation hitches so far (254 graphics, 446 compute). 0 of them were precached.
+[2025.11.03-15.27.33:152][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-15.27.33:152][ 24]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level01
+[2025.11.03-15.27.33:153][ 24]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-15.27.33:153][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-15.27.33:156][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.03-15.27.33:160][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-15.27.33:185][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.03-15.27.33:185][ 24]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.11.03-15.27.33:185][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.11.03-15.27.33:188][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.11.03-15.27.33:198][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.11.03-15.27.33:313][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.11.03-15.27.39:808][388]Cmd: DELETE
+[2025.11.03-15.27.39:809][388]Cmd: ACTOR DELETE
+[2025.11.03-15.27.39:817][388]LogEditorActor: Deleted Actor: PlayerStart
+[2025.11.03-15.27.39:844][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.11.03-15.27.39:846][388]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.11.03-15.29.34:153][951]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2025.11.03-15.29.34:180][951]LogContentBrowser: Creating deferred item: 新建文件夹
+[2025.11.03-15.29.34:197][952]LogContentBrowser: Renaming the item being created (Deferred Item: 新建文件夹).
+[2025.11.03-15.29.47:604][754]LogContentBrowser: Attempting asset rename: 新建文件夹 -> AnimationBlueprints
+[2025.11.03-15.29.47:605][754]LogContentBrowser: End creating deferred item 新建文件夹
+[2025.11.03-15.30.16:560][ 73]LogSlate: Window '创建动画蓝图' being destroyed
+[2025.11.03-15.30.16:581][ 73]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2025.11.03-15.30.16:596][ 73]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2025.11.03-15.30.16:677][ 75]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2025.11.03-15.30.16:843][ 80]SourceControl: fatal: F:/Unreal Engine/UE_5.6/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'F:/Unreal Engine/UE_5.6/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository at 'F:/Unreal Projects/Udemy_ALS'
+[2025.11.03-15.30.16:843][ 80]SourceControl: fatal: F:/Unreal Engine/UE_5.6/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset: 'F:/Unreal Engine/UE_5.6/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset' is outside repository at 'F:/Unreal Projects/Udemy_ALS'
+[2025.11.03-15.30.16:843][ 80]SourceControl: fatal: F:/Unreal Engine/UE_5.6/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset: 'F:/Unreal Engine/UE_5.6/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset' is outside repository at 'F:/Unreal Projects/Udemy_ALS'
+[2025.11.03-15.30.24:331][515]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_LyraBase
+[2025.11.03-15.30.24:482][515]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2025.11.03-15.30.24:484][515]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.11.03-15.30.35:909][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-15.30.35:976][655]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ALS/AnimationBlueprints/ABP_LyraBase] ([2] browsable assets)...
+[2025.11.03-15.30.35:987][655]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ALS/AnimationBlueprints/ABP_LyraBase.ABP_LyraBase]
+[2025.11.03-15.30.35:987][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/ALS/AnimationBlueprints/ABP_LyraBase]
+[2025.11.03-15.30.35:987][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ALS/AnimationBlueprints/ABP_LyraBase" FILE="../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/AnimationBlueprints/ABP_LyraBase.uasset" SILENT=true
+[2025.11.03-15.30.36:002][655]LogSavePackage: Moving output files for package: /Game/ALS/AnimationBlueprints/ABP_LyraBase
+[2025.11.03-15.30.36:002][655]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/ABP_LyraBaseE4EF4A6C4397485FABB8C68958247781.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/AnimationBlueprints/ABP_LyraBase.uasset'
+[2025.11.03-15.30.36:172][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 263.254 ms (total: 12.5 sec)
+[2025.11.03-15.30.36:240][655]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-15.30.36:240][655]LogContentValidation: Enabled validators:
+[2025.11.03-15.30.36:240][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-15.30.36:240][655]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-15.30.36:240][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-15.30.36:240][655]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-15.30.36:240][655]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-15.30.36:240][655]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-15.30.36:240][655]AssetCheck: /Game/ALS/AnimationBlueprints/ABP_LyraBase 正在验证资产
+[2025.11.03-15.30.40:380][892]LogSlateStyle: Warning: 缺失来自“CoreStyle”的资源 样式：“未能找到颜色“DefaultForeground”。”
+[2025.11.03-15.30.44:770][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.11.03-15.30.44:898][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-15.30.44:966][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ALS/ALSCharacter/BP_LyraCharacter] ([2] browsable assets)...
+[2025.11.03-15.30.44:976][136]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ALS/ALSCharacter/BP_LyraCharacter.BP_LyraCharacter]
+[2025.11.03-15.30.44:976][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/ALS/ALSCharacter/BP_LyraCharacter]
+[2025.11.03-15.30.44:976][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ALS/ALSCharacter/BP_LyraCharacter" FILE="../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/ALSCharacter/BP_LyraCharacter.uasset" SILENT=true
+[2025.11.03-15.30.44:986][136]LogSavePackage: Moving output files for package: /Game/ALS/ALSCharacter/BP_LyraCharacter
+[2025.11.03-15.30.44:986][136]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/BP_LyraCharacter4B69884145DF9C127423F39EFDABCDAD.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/ALSCharacter/BP_LyraCharacter.uasset'
+[2025.11.03-15.30.44:998][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.218 ms (total: 12.6 sec)
+[2025.11.03-15.30.45:087][136]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-15.30.45:087][136]LogContentValidation: Enabled validators:
+[2025.11.03-15.30.45:087][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-15.30.45:087][136]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-15.30.45:087][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-15.30.45:087][136]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-15.30.45:087][136]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-15.30.45:087][136]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-15.30.45:087][136]AssetCheck: /Game/ALS/ALSCharacter/BP_LyraCharacter 正在验证资产
+[2025.11.03-15.30.48:066][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-15.30.48:137][283]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ALS/AnimationBlueprints/ABP_LyraBase] ([2] browsable assets)...
+[2025.11.03-15.30.48:137][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/ALS/AnimationBlueprints/ABP_LyraBase]
+[2025.11.03-15.30.48:137][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ALS/AnimationBlueprints/ABP_LyraBase" FILE="../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/AnimationBlueprints/ABP_LyraBase.uasset" SILENT=true
+[2025.11.03-15.30.48:151][283]LogSavePackage: Moving output files for package: /Game/ALS/AnimationBlueprints/ABP_LyraBase
+[2025.11.03-15.30.48:151][283]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/ABP_LyraBaseBF407D18448BDDCC881946B6A3BA11D2.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/AnimationBlueprints/ABP_LyraBase.uasset'
+[2025.11.03-15.30.48:162][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.167 ms (total: 12.7 sec)
+[2025.11.03-15.30.48:226][283]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-15.30.48:226][283]LogContentValidation: Enabled validators:
+[2025.11.03-15.30.48:226][283]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-15.30.48:226][283]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-15.30.48:226][283]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-15.30.48:226][283]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-15.30.48:226][283]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-15.30.48:226][283]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-15.30.48:226][283]AssetCheck: /Game/ALS/AnimationBlueprints/ABP_LyraBase 正在验证资产
+[2025.11.03-15.30.50:332][378]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-15.30.50:428][378]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ALS/AnimationBlueprints/ABP_LyraBase] ([2] browsable assets)...
+[2025.11.03-15.30.50:428][378]OBJ SavePackage: Finished generating thumbnails for package [/Game/ALS/AnimationBlueprints/ABP_LyraBase]
+[2025.11.03-15.30.50:428][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ALS/AnimationBlueprints/ABP_LyraBase" FILE="../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/AnimationBlueprints/ABP_LyraBase.uasset" SILENT=true
+[2025.11.03-15.30.50:439][378]LogSavePackage: Moving output files for package: /Game/ALS/AnimationBlueprints/ABP_LyraBase
+[2025.11.03-15.30.50:440][378]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/ABP_LyraBaseDCACEAEF494F207F74CE2097DE9F5D05.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/ALS/AnimationBlueprints/ABP_LyraBase.uasset'
+[2025.11.03-15.30.50:455][378]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.720 ms (total: 12.9 sec)
+[2025.11.03-15.30.50:524][378]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-15.30.50:524][378]LogContentValidation: Enabled validators:
+[2025.11.03-15.30.50:524][378]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-15.30.50:524][378]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-15.30.50:524][378]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-15.30.50:524][378]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-15.30.50:524][378]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-15.30.50:524][378]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-15.30.50:524][378]AssetCheck: /Game/ALS/AnimationBlueprints/ABP_LyraBase 正在验证资产
+[2025.11.03-15.30.53:445][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.11.03-15.30.54:223][539]LogSlate: Window '保存内容' being destroyed
+[2025.11.03-15.30.54:395][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.03-15.30.54:463][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level01" FILE="../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/Levels/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.03-15.30.54:541][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.11.03-15.30.54:559][539]LogSavePackage: Moving output files for package: /Game/Levels/Level01
+[2025.11.03-15.30.54:559][539]LogSavePackage: Moving '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Saved/Level0128F3C9F9438560466A0EC489EE050D37.tmp' to '../../../../../Unreal Projects/Udemy_ALS/Udemy_ALS/Content/Levels/Level01.umap'
+[2025.11.03-15.30.54:569][539]LogFileHelpers: Saving map 'Level01' took 0.105
+[2025.11.03-15.30.54:578][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.979 ms (total: 13.1 sec)
+[2025.11.03-15.30.54:645][539]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.03-15.30.54:645][539]LogContentValidation: Enabled validators:
+[2025.11.03-15.30.54:645][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.03-15.30.54:645][539]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.03-15.30.54:645][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.03-15.30.54:645][539]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.03-15.30.54:645][539]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.03-15.30.54:645][539]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.03-15.30.54:645][539]AssetCheck: /Game/Levels/Level01 正在验证资产
