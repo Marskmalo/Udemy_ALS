@@ -1312,3 +1312,157 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 		NumGeometrySegments changed: current: 0 - new: 512
 [2025.11.03-14.06.03:610][352]LogPSOHitching: Encountered 250 PSO creation hitches so far (71 graphics, 179 compute). 0 of them were precached.
 [2025.11.03-14.06.03:922][353]LogSlate: External Image Picker: DecompressImage failed
+[2025.11.03-14.07.25:792][425]LogDerivedDataCache: C:/Users/Marsk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.03-14.07.56:941][937]LogSlate: Window '编辑器偏好设置' being destroyed
+[2025.11.03-14.11.04:679][716]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 335.051178
+[2025.11.03-14.11.05:049][738]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.03-14.11.05:049][738]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 335.403839, Update Interval: 356.855988
+[2025.11.03-14.12.05:361][807]LogPSOHitching: Encountered 300 PSO creation hitches so far (85 graphics, 215 compute). 0 of them were precached.
+[2025.11.03-14.13.19:911][319]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.11.03-14.13.21:521][383]SourceControl: fatal: F:/Unreal Engine/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles: 'F:/Unreal Engine/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles' is outside repository at 'F:/Unreal Projects/Udemy_ALS'
+[2025.11.03-14.13.21:521][383]SourceControl: fatal: F:/Unreal Engine/UE_5.6/Engine/Content/EditorMeshes: 'F:/Unreal Engine/UE_5.6/Engine/Content/EditorMeshes' is outside repository at 'F:/Unreal Projects/Udemy_ALS'
+[2025.11.03-14.13.21:521][383]SourceControl: fatal: F:/Unreal Engine/UE_5.6/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset: 'F:/Unreal Engine/UE_5.6/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset' is outside repository at 'F:/Unreal Projects/Udemy_ALS'
+[2025.11.03-14.13.21:521][383]SourceControl: fatal: F:/Unreal Engine/UE_5.6/Engine/Content/EngineMeshes: 'F:/Unreal Engine/UE_5.6/Engine/Content/EngineMeshes' is outside repository at 'F:/Unreal Projects/Udemy_ALS'
+[2025.11.03-14.13.21:521][383]SourceControl: fatal: F:/Unreal Engine/UE_5.6/Engine/Content/VREditor/TransformGizmo: 'F:/Unreal Engine/UE_5.6/Engine/Content/VREditor/TransformGizmo' is outside repository at 'F:/Unreal Projects/Udemy_ALS'
+[2025.11.03-14.13.21:521][383]SourceControl: fatal: F:/Unreal Engine/UE_5.6/Engine/Content/BasicShapes: 'F:/Unreal Engine/UE_5.6/Engine/Content/BasicShapes' is outside repository at 'F:/Unreal Projects/Udemy_ALS'
+[2025.11.03-14.13.21:521][383]SourceControl: fatal: F:/Unreal Engine/UE_5.6/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset: 'F:/Unreal Engine/UE_5.6/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset' is outside repository at 'F:/Unreal Projects/Udemy_ALS'
+[2025.11.03-14.13.29:814][765]LogStreaming: Display: FlushAsyncLoading(477): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.03-14.13.30:259][765]LogAnimation: Warning: PoseAsset/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_calf_l_pose.Manny_calf_l_pose已经过时，它的源动画/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim 8E2B50DD07CBD0EC07FCDD7DE6C03CCF vs CC78212CC2D05F60DB49B336943F61D9
+[2025.11.03-14.13.30:265][765]LogAnimation: Warning: PoseAsset/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_calf_r_pose.Manny_calf_r_pose已经过时，它的源动画/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim 7894484DF77F696ECE86F5E48B21970F vs 8FE1687880D683625E543FF1464725DB
+[2025.11.03-14.13.30:271][765]LogAnimation: Warning: PoseAsset/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_clavicle_l_pose.Manny_clavicle_l_pose已经过时，它的源动画/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim 6CEA229F225BD38F08A7E79F1708B2C3 vs 85F8EF1345C47A8C9C76736EC7A3FE90
+[2025.11.03-14.13.30:276][765]LogAnimation: Warning: PoseAsset/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_clavicle_r_pose.Manny_clavicle_r_pose已经过时，它的源动画/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim 5011953F65839BC59E3AB711A254A94E vs ADA1E6650A76F8713148B97EF6AF9A89
+[2025.11.03-14.13.30:280][765]LogAnimation: Warning: PoseAsset/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_foot_l_pose.Manny_foot_l_pose已经过时，它的源动画/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim E1CD278520DDF4FB187D1CBC17C34C12 vs 27DE3409653F529F13DE46FBC2B19C83
+[2025.11.03-14.13.30:284][765]LogAnimation: Warning: PoseAsset/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_foot_r_pose.Manny_foot_r_pose已经过时，它的源动画/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim 9B48B63BBAECCB8F6D4567982FCD3450 vs 73E77D69CA585135BF157B81788D5D86
+[2025.11.03-14.13.30:289][765]LogAnimation: Warning: PoseAsset/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_hand_l_pose.Manny_hand_l_pose已经过时，它的源动画/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim 9B42FC91272EF6C74D20196D6DFE60F4 vs AB6FD63C9D139264C0008EDBECC735F0
+[2025.11.03-14.13.30:295][765]LogAnimation: Warning: PoseAsset/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_hand_r_pose.Manny_hand_r_pose已经过时，它的源动画/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim 23D2F7543DE7F7C42CEDA5C43C0F6FB1 vs 93329CC316356DE7E397D2DEB2E3AFD1
+[2025.11.03-14.13.30:299][765]LogAnimation: Warning: PoseAsset/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_lowerarm_l_pose.Manny_lowerarm_l_pose已经过时，它的源动画/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim C5886899902BFF210DE43F818588A597 vs 011865FD95B823CF80CFFC7D480E61C6
+[2025.11.03-14.13.30:302][765]LogAnimation: Warning: PoseAsset/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_lowerarm_r_pose.Manny_lowerarm_r_pose已经过时，它的源动画/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim 875F291D3A6E3ECDAF9BE4BCE6F094DD vs 1BB05015D9BFA1ECD7E35B013381E1BD
+[2025.11.03-14.13.30:311][765]LogAnimation: Warning: PoseAsset/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_thigh_l_pose.Manny_thigh_l_pose已经过时，它的源动画/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim 44456FC574BD040D2281CA549C0C8191 vs 4CB65F0128C1D0D989355D4955DCE16F
+[2025.11.03-14.13.30:316][765]LogAnimation: Warning: PoseAsset/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_thigh_r_pose.Manny_thigh_r_pose已经过时，它的源动画/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim 364BC1D823C760EAFC55654DBF9144FE vs E90CD50BD93DFBC0B3D7B8B240DA9861
+[2025.11.03-14.13.30:320][765]LogAnimation: Warning: PoseAsset/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_upperarm_l_pose.Manny_upperarm_l_pose已经过时，它的源动画/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim E74586CE1E5E44B3F8048DBFC7950641 vs 664563D92C58772CAB9EEAD42C191D1A
+[2025.11.03-14.13.30:325][765]LogAnimation: Warning: PoseAsset/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_upperarm_r_pose.Manny_upperarm_r_pose已经过时，它的源动画/Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim 63B9CCF17675B52E40416075E3A9DDE3 vs 9AAB8175306B1E429602738D99BAB05C
+[2025.11.03-14.13.30:403][765]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Heroes/Mannequin/Meshes/SKM_Manny.SKM_Manny
+[2025.11.03-14.13.30:421][765]LogSkeletalMesh: Display: 正在等待蒙皮资产就绪0/1（SKM_Manny）……
+[2025.11.03-14.13.30:956][765]LogTexture: Display: 正在构建纹理：/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_MSK.T_Manny_01_MSK （TFO_DXT1, 8192x8192 x1x1x1）（预计所需内存：1537.000 MB），编码速度：Fast
+[2025.11.03-14.13.31:225][765]LogTexture: Display: 正在构建纹理：/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_D.T_Manny_01_D （TFO_DXT1, 8192x8192 x1x1x1）（预计所需内存：1537.000 MB），编码速度：Fast
+[2025.11.03-14.13.32:008][765]LogSkeletalMesh: Building Skeletal Mesh SKM_Manny...
+[2025.11.03-14.13.33:711][765]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2025.11.03-14.13.33:711][765]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2025.11.03-14.13.37:798][765]LogSkeletalMesh: Skeletal mesh [/Game/Characters/Heroes/Mannequin/Meshes/SKM_Manny.SKM_Manny]: The derived data key is different after the build. Save the asset to avoid rebuilding it everytime the editor load it.
+[2025.11.03-14.13.37:820][765]LogSkeletalMesh: Built Skeletal Mesh [5.81s] /Game/Characters/Heroes/Mannequin/Meshes/SKM_Manny.SKM_Manny
+[2025.11.03-14.13.37:824][765]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim (Required Memory Estimate: 0.09 MB)
+[2025.11.03-14.13.37:824][765]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim (Required Memory Estimate: 0.30 MB)
+[2025.11.03-14.13.37:824][765]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim (Required Memory Estimate: 0.07 MB)
+[2025.11.03-14.13.37:824][765]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim (Required Memory Estimate: 0.26 MB)
+[2025.11.03-14.13.37:824][765]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim (Required Memory Estimate: 0.09 MB)
+[2025.11.03-14.13.37:824][765]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim (Required Memory Estimate: 0.26 MB)
+[2025.11.03-14.13.37:824][765]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim (Required Memory Estimate: 0.18 MB)
+[2025.11.03-14.13.37:824][765]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim (Required Memory Estimate: 0.18 MB)
+[2025.11.03-14.13.37:824][765]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim (Required Memory Estimate: 7.41 MB)
+[2025.11.03-14.13.37:829][765]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim, at AnimationSequence/30977dd2657b878cd8e9116cac6b7b4b4e6895b0
+[2025.11.03-14.13.37:829][765]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim, at AnimationSequence/6cb427c893ca2ffdde06a1ade1a4a9559e193ded
+[2025.11.03-14.13.37:829][765]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim, at AnimationSequence/08e62f3c4c338c48c44af42ea2ead65867fc7dc3
+[2025.11.03-14.13.37:829][765]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim, at AnimationSequence/4c2f0f62fff010031fc6e7af02ea40b7d9ee8f27
+[2025.11.03-14.13.37:829][765]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim, at AnimationSequence/3e7ae0ebe70d99a15239d4f732f09a97b390032a
+[2025.11.03-14.13.37:829][765]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim, at AnimationSequence/5894c1d093dbeb3d1c45918d20bb7236afff555a
+[2025.11.03-14.13.37:829][765]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim, at AnimationSequence/f85ca8dbf5bb8def97a1bd00eead40bee7983568
+[2025.11.03-14.13.37:829][765]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim, at AnimationSequence/93de604699fcb084545038d05319bd7f4ba17b25
+[2025.11.03-14.13.37:830][765]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim (Required Memory Estimate: 0.11 MB)
+[2025.11.03-14.13.37:830][765]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim (Required Memory Estimate: 0.11 MB)
+[2025.11.03-14.13.37:830][765]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim (Required Memory Estimate: 0.07 MB)
+[2025.11.03-14.13.37:830][765]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim (Required Memory Estimate: 0.11 MB)
+[2025.11.03-14.13.37:830][765]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim (Required Memory Estimate: 0.11 MB)
+[2025.11.03-14.13.37:833][765]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim, at AnimationSequence/9c41773ad53b45cca17f28cca8479cc9704cee61
+[2025.11.03-14.13.37:833][765]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim, at AnimationSequence/f95b29dfaa943d302eb43fa73602d9018db21a69
+[2025.11.03-14.13.37:833][765]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim, at AnimationSequence/5de3094a09ec65bb841b66838eaa9cd4f6631e59
+[2025.11.03-14.13.37:833][765]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim, at AnimationSequence/4237c72a0b4c393d9588ae0f43fc75d1e2a5f27b
+[2025.11.03-14.13.37:833][765]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim, at AnimationSequence/55804c5a521a06d36847dc153b74fcc3f5b064d3
+[2025.11.03-14.13.37:866][765]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Heroes/Mannequin/Rig/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim, at AnimationSequence/e27280b5ba9938d6858750d65603e6c715337095
+[2025.11.03-14.13.37:916][765]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.11.03-14.13.37:959][765]LogStaticMesh: Display: 正在等待静态网格体就绪0/1（/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals）……
+[2025.11.03-14.13.38:481][765]LogTexture: Display: 正在构建纹理：/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_MSK3.T_Manny_01_MSK3 （TFO_AutoDXT, 8192x8192 x1x1x1）（预计所需内存：1537.000 MB），编码速度：Fast
+[2025.11.03-14.13.38:800][765]LogTexture: Display: 正在构建纹理：/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_MSK2.T_Manny_01_MSK2 （TFO_DXT1, 8192x8192 x1x1x1）（预计所需内存：1537.000 MB），编码速度：Fast
+[2025.11.03-14.13.39:100][765]LogStaticMesh: Display: 正在构建静态网格体Sphere_inversenormals（所需内存估计：1.522745MB）…
+[2025.11.03-14.13.39:114][765]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2025.11.03-14.13.39:144][765]LogStaticMesh: Display: 正在构建静态网格体Floor_Mesh（所需内存估计：0.022237MB）…
+[2025.11.03-14.13.39:145][765]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2025.11.03-14.13.39:176][765]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.03-14.13.39:192][765]LogTexture: Display: 正在等待纹理就绪3/16（/Game/Characters/Heroes/Mannequin/Textures/Shared/T_OrangePeel_N）……
+[2025.11.03-14.13.39:206][765]LogTexture: Display: 正在构建纹理：/Game/Characters/Heroes/Mannequin/Textures/Shared/T_OrangePeel_N.T_OrangePeel_N （TFO_BC5, 1024x1024 x1x1x1）（预计所需内存：259.499988 MB），编码速度：Fast
+[2025.11.03-14.13.39:259][765]LogTexture: Display: 正在等待纹理就绪4/16（/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_02_MSK）……
+[2025.11.03-14.13.39:419][765]LogTexture: Display: 正在构建纹理：/Game/Characters/Effects/Textures/General/squares.squares （TFO_AutoDXT, 512x512 x1x1x1）（预计所需内存：47.083323 MB），编码速度：Fast
+[2025.11.03-14.13.39:435][765]LogTexture: Display: 正在构建纹理：/Game/Characters/Heroes/Mannequin/Textures/Shared/T_UE_Logo_V2.T_UE_Logo_V2 （G8, 1024x1024 x1x1x1）（预计所需内存：32.999993 MB），编码速度：Fast
+[2025.11.03-14.13.40:248][765]LogTexture: Display: 正在构建纹理：/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_02_MSK.T_Manny_02_MSK （TFO_DXT1, 8192x8192 x1x1x1）（预计所需内存：1537.000 MB），编码速度：Fast
+[2025.11.03-14.13.40:463][765]LogTexture: Display: 正在构建纹理：/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_02_D.T_Manny_02_D （TFO_DXT1, 8192x8192 x1x1x1）（预计所需内存：1537.000 MB），编码速度：Fast
+[2025.11.03-14.13.41:010][765]LogTexture: Display: 正在等待纹理就绪8/16（/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_02_D）……
+[2025.11.03-14.13.41:244][765]LogTexture: Display: 正在等待纹理就绪9/16（/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_02_MSK1）……
+[2025.11.03-14.13.41:984][765]LogTexture: Display: 正在构建纹理：/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_02_MSK3.T_Manny_02_MSK3 （TFO_DXT1, 8192x8192 x1x1x1）（预计所需内存：1537.000 MB），编码速度：Fast
+[2025.11.03-14.13.42:987][765]LogTexture: Display: 正在构建纹理：/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_02_MSK1.T_Manny_02_MSK1 （TFO_DXT1, 8192x8192 x1x1x1）（预计所需内存：1537.000 MB），编码速度：Fast
+[2025.11.03-14.13.44:814][765]LogTexture: Display: 正在等待纹理就绪11/16（/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_02_MSK2）……
+[2025.11.03-14.13.44:846][765]LogTexture: Display: 正在构建纹理：/Game/Characters/Heroes/Mannequin/Textures/Shared/T_Detail_Normal.T_Detail_Normal （TFO_BC5, 1024x1024 x1x1x1）（预计所需内存：259.499988 MB），编码速度：Fast
+[2025.11.03-14.13.45:641][765]LogTexture: Display: 正在构建纹理：/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_02_N.T_Manny_02_N （TFO_BC5, 8192x8192 x1x1x1）（预计所需内存：1537.000 MB），编码速度：Fast
+[2025.11.03-14.13.45:674][765]LogTexture: Display: 正在构建纹理：/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_02_MSK2.T_Manny_02_MSK2 （TFO_DXT1, 8192x8192 x1x1x1）（预计所需内存：1537.000 MB），编码速度：Fast
+[2025.11.03-14.13.46:393][765]LogTexture: Display: 正在等待纹理就绪14/16（/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_MSK1）……
+[2025.11.03-14.13.47:736][765]LogTexture: Display: 正在构建纹理：/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_N.T_Manny_01_N （TFO_BC5, 8192x8192 x1x1x1）（预计所需内存：1537.000 MB），编码速度：Fast
+[2025.11.03-14.13.47:747][765]LogTexture: Display: 正在构建纹理：/Game/Characters/Heroes/Mannequin/Textures/Manny/T_Manny_01_MSK1.T_Manny_01_MSK1 （TFO_DXT1, 8192x8192 x1x1x1）（预计所需内存：1537.000 MB），编码速度：Fast
+[2025.11.03-14.13.49:712][765]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x21 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 80% occupied, 0 triangles, Floor_Mesh
+[2025.11.03-14.13.51:121][765]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.11.03-14.13.51:208][765]LogSlate: Took 0.012465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.11.03-14.13.51:629][765]LogPSOHitching: Encountered 350 PSO creation hitches so far (114 graphics, 236 compute). 0 of them were precached.
+[2025.11.03-14.13.52:052][765]LoadErrors: Warning: 尝试加载包/Game/Characters/Heroes/Mannequin/Rig/PA_Mannequin时，依赖包/Game/Characters/Heroes/PhysMat_Player不可用。其他解释信息如下：
+FPackageName: Skipped package /Game/Characters/Heroes/PhysMat_Player has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'F:/Unreal Projects/Udemy_ALS/Udemy_ALS/Content/Characters/Heroes/PhysMat_Player'. Perhaps it has been deleted or was not synced?
+
+[2025.11.03-14.13.52:053][765]LoadErrors: Warning: 尝试加载包/Game/Characters/Heroes/Mannequin/Rig/PA_Mannequin时，依赖包/Game/Characters/Heroes/PhysMat_Player_WeakSpot不可用。其他解释信息如下：
+FPackageName: Skipped package /Game/Characters/Heroes/PhysMat_Player_WeakSpot has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'F:/Unreal Projects/Udemy_ALS/Udemy_ALS/Content/Characters/Heroes/PhysMat_Player_WeakSpot'. Perhaps it has been deleted or was not synced?
+
+[2025.11.03-14.13.56:954][987]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Heroes/Mannequin/Meshes/SK_Mannequin.SK_Mannequin
+[2025.11.03-14.13.56:954][987]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.11.03-14.13.56:965][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.03-14.13.57:290][987]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.11.03-14.14.08:472][598]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.11.03-14.14.11:587][757]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-14.14.11:587][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-14.14.11:623][757]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.11.03-14.14.11:623][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.03-14.14.11:706][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: ================================================
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Total job queries 510, among them cache hits 40 (7.84%), DDC hits 362 (70.98%), Duplicates 75 (14.71%)
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Tracking 395 distinct input hashes that result in 283 distinct outputs (71.65%)
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: RAM used: 3.69 MiB of 1.20 GiB budget. Usage: 0.30%
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Shaders Compiled: 33
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Jobs assigned 33, completed 33 (100%)
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Average time worker was idle: 6.51 s
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Time job spent in pending queue: average 0.74 s, longest 2.42 s
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Job execution time: average 1.48 s, max 2.93 s
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Job life time (pending + execution): average 2.22 s, max 4.51
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Shader code size: total 368.84 KiB, numShaders 39, average 9.457 KiB, min 5.203 KiB, max 25.5 KiB
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.98 s
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Jobs were issued in 33 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Average processing rate: 3.31 jobs/sec
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Total thread time: 43.049 s
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Total thread preprocess time: 10.754 s
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Percentage time preprocessing: 24.98%
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Effective parallelization: 4.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.431412
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 2.00 sec, max 2.00 sec, min 2.00 sec)
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    2 times, average 1.97 sec, max 1.99 sec, min 1.95 sec)
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 1.96 sec, max 1.97 sec, min 1.95 sec)
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 1.62 sec, max 1.75 sec, min 1.52 sec)
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.51 sec, max 1.61 sec, min 1.44 sec)
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.69% of total time (compiled    6 times, average 1.05 sec, max 1.39 sec, min 0.86 sec)
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 11.31% of total time (compiled    3 times, average 1.62 sec, max 1.75 sec, min 1.52 sec)
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.55% of total time (compiled    3 times, average 1.51 sec, max 1.61 sec, min 1.44 sec)
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display:                                                  FVelocityPS - 9.28% of total time (compiled    2 times, average 2.00 sec, max 2.00 sec, min 2.00 sec)
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display:                                                FAnisotropyPS - 9.15% of total time (compiled    2 times, average 1.97 sec, max 1.99 sec, min 1.95 sec)
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: === Material stats ===
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Materials Translated:    145
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Material Translation Only: 0.05 s (41%)
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: Material Cache Hits: 18 (12%)
+[2025.11.03-14.14.35:269][170]LogShaderCompilers: Display: ================================================
