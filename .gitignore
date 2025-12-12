@@ -73,3 +73,4 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Udemy_ALS/Saved/Logs/Udemy_ALS.log
+/Udemy_ALS/Saved
