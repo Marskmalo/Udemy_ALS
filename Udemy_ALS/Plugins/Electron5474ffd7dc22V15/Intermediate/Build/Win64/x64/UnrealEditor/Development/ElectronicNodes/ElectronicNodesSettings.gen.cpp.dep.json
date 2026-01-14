@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\d_epic_ue\\unreal project\\sod\\plugins\\electron5474ffd7dc22v15\\intermediate\\build\\win64\\unrealeditor\\inc\\electronicnodes\\uht\\electronicnodessettings.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\d_epic_ue\\unreal project\\sod\\intermediate\\build\\win64\\x64\\sodeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\d_epic_ue\\unreal project\\sod\\plugins\\electron5474ffd7dc22v15\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\electronicnodes\\definitions.electronicnodes.h",
+            "d:\\d_epic_ue\\unreal project\\sod\\plugins\\electron5474ffd7dc22v15\\source\\electronicnodes\\public\\electronicnodessettings.h",
+            "d:\\d_epic_ue\\unreal project\\sod\\plugins\\electron5474ffd7dc22v15\\intermediate\\build\\win64\\unrealeditor\\inc\\electronicnodes\\uht\\electronicnodessettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

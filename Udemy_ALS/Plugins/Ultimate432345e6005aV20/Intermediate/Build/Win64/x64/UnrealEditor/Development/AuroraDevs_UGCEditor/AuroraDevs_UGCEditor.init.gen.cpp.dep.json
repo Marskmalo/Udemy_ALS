@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\d_epic_ue\\unreal project\\sod\\plugins\\ultimate432345e6005av20\\intermediate\\build\\win64\\unrealeditor\\inc\\auroradevs_ugceditor\\uht\\auroradevs_ugceditor.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\d_epic_ue\\unreal project\\sod\\intermediate\\build\\win64\\x64\\sodeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\d_epic_ue\\unreal project\\sod\\plugins\\ultimate432345e6005av20\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\auroradevs_ugceditor\\definitions.auroradevs_ugceditor.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
