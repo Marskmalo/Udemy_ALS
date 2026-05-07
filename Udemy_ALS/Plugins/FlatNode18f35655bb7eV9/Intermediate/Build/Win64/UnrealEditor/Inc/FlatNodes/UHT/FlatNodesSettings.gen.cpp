@@ -55,40 +55,28 @@ struct Z_Construct_UClass_UFlatNodesSettings_Statics
 {
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
-#if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n * Configure the Flat Nodes plug-in.\n */" },
-#endif
 		{ "IncludePath", "FlatNodesSettings.h" },
 		{ "ModuleRelativePath", "Public/FlatNodesSettings.h" },
-#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Configure the Flat Nodes plug-in." },
-#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_bHeaderUseGradient_MetaData[] = {
 		{ "Category", "Header" },
-#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Whether to use gradient on node header or not. Default: false */" },
-#endif
 		{ "ConfigRestartRequired", "TRUE" },
 		{ "DisplayName", "Use Gradient" },
 		{ "ModuleRelativePath", "Public/FlatNodesSettings.h" },
-#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Whether to use gradient on node header or not. Default: false" },
-#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_HeaderBrightness_MetaData[] = {
 		{ "Category", "Header" },
 		{ "ClampMax", "1" },
 		{ "ClampMin", "0" },
-#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Brightness of node header. Default: 0.25 */" },
-#endif
 		{ "DisplayName", "Brightness" },
 		{ "EditCondition", "!bHeaderUseGradient" },
 		{ "ModuleRelativePath", "Public/FlatNodesSettings.h" },
-#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Brightness of node header. Default: 0.25" },
-#endif
 	};
 #endif // WITH_METADATA
 	static void NewProp_bHeaderUseGradient_SetBit(void* Obj);
@@ -145,14 +133,14 @@ UFlatNodesSettings::~UFlatNodesSettings() {}
 // ********** End Class UFlatNodesSettings *********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Unreal_Project_SOD_Plugins_FlatNode18f35655bb7eV9_Source_FlatNodes_Public_FlatNodesSettings_h__Script_FlatNodes_Statics
+struct Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_FlatNodes_Source_FlatNodes_Public_FlatNodesSettings_h__Script_FlatNodes_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UFlatNodesSettings, UFlatNodesSettings::StaticClass, TEXT("UFlatNodesSettings"), &Z_Registration_Info_UClass_UFlatNodesSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UFlatNodesSettings), 1988002699U) },
+		{ Z_Construct_UClass_UFlatNodesSettings, UFlatNodesSettings::StaticClass, TEXT("UFlatNodesSettings"), &Z_Registration_Info_UClass_UFlatNodesSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UFlatNodesSettings), 4082942327U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Project_SOD_Plugins_FlatNode18f35655bb7eV9_Source_FlatNodes_Public_FlatNodesSettings_h__Script_FlatNodes_697742854(TEXT("/Script/FlatNodes"),
-	Z_CompiledInDeferFile_FID_Unreal_Project_SOD_Plugins_FlatNode18f35655bb7eV9_Source_FlatNodes_Public_FlatNodesSettings_h__Script_FlatNodes_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Project_SOD_Plugins_FlatNode18f35655bb7eV9_Source_FlatNodes_Public_FlatNodesSettings_h__Script_FlatNodes_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_FlatNodes_Source_FlatNodes_Public_FlatNodesSettings_h__Script_FlatNodes_2553985167(TEXT("/Script/FlatNodes"),
+	Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_FlatNodes_Source_FlatNodes_Public_FlatNodesSettings_h__Script_FlatNodes_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_FlatNodes_Source_FlatNodes_Public_FlatNodesSettings_h__Script_FlatNodes_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

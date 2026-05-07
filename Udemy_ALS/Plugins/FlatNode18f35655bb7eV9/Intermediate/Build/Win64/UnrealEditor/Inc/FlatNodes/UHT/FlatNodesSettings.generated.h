@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class UFlatNodesSettings *******************************************************
 FLATNODES_API UClass* Z_Construct_UClass_UFlatNodesSettings_NoRegister();
 
-#define FID_Unreal_Project_SOD_Plugins_FlatNode18f35655bb7eV9_Source_FlatNodes_Public_FlatNodesSettings_h_16_INCLASS_NO_PURE_DECLS \
+#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_FlatNodes_Source_FlatNodes_Public_FlatNodesSettings_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUFlatNodesSettings(); \
 	friend struct Z_Construct_UClass_UFlatNodesSettings_Statics; \
@@ -32,7 +32,7 @@ public: \
 
 
 
-#define FID_Unreal_Project_SOD_Plugins_FlatNode18f35655bb7eV9_Source_FlatNodes_Public_FlatNodesSettings_h_16_ENHANCED_CONSTRUCTORS \
+#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_FlatNodes_Source_FlatNodes_Public_FlatNodesSettings_h_16_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UFlatNodesSettings(UFlatNodesSettings&&) = delete; \
 	UFlatNodesSettings(const UFlatNodesSettings&) = delete; \
@@ -42,12 +42,12 @@ public: \
 	NO_API virtual ~UFlatNodesSettings();
 
 
-#define FID_Unreal_Project_SOD_Plugins_FlatNode18f35655bb7eV9_Source_FlatNodes_Public_FlatNodesSettings_h_13_PROLOG
-#define FID_Unreal_Project_SOD_Plugins_FlatNode18f35655bb7eV9_Source_FlatNodes_Public_FlatNodesSettings_h_16_GENERATED_BODY \
+#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_FlatNodes_Source_FlatNodes_Public_FlatNodesSettings_h_13_PROLOG
+#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_FlatNodes_Source_FlatNodes_Public_FlatNodesSettings_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Unreal_Project_SOD_Plugins_FlatNode18f35655bb7eV9_Source_FlatNodes_Public_FlatNodesSettings_h_16_INCLASS_NO_PURE_DECLS \
-	FID_Unreal_Project_SOD_Plugins_FlatNode18f35655bb7eV9_Source_FlatNodes_Public_FlatNodesSettings_h_16_ENHANCED_CONSTRUCTORS \
+	FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_FlatNodes_Source_FlatNodes_Public_FlatNodesSettings_h_16_INCLASS_NO_PURE_DECLS \
+	FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_FlatNodes_Source_FlatNodes_Public_FlatNodesSettings_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -57,6 +57,6 @@ class UFlatNodesSettings;
 // ********** End Class UFlatNodesSettings *********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Unreal_Project_SOD_Plugins_FlatNode18f35655bb7eV9_Source_FlatNodes_Public_FlatNodesSettings_h
+#define CURRENT_FILE_ID FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_FlatNodes_Source_FlatNodes_Public_FlatNodesSettings_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
